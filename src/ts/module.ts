@@ -4,7 +4,6 @@ import {ModuleData} from "@league-of-foundry-developers/foundry-vtt-types/src/fo
 
 import { moduleId } from "./constants";
 import "./apps/maximize-popouts";
-import "../styles/style.scss";
 
 declare global {
     interface LenientGlobalVariableTypes {
