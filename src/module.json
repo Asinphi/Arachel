@@ -1,7 +1,7 @@
 {
-  "id": "confirm-chat-send",
-  "title": "Confirm Chat Send",
-  "description": "Lets careful users confirm their chat messages before sending them.",
+  "id": "arachel",
+  "title": "Arachel",
+  "description": "Package of customizations for Arachel",
   "authors": [
     {
       "name": "Asinphi",
